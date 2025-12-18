@@ -1,4 +1,4 @@
-# 🚀 Déploiement de Gitea avec Docker
+# 🚀 APERÇU AVANT Déploiement de Gitea avec Docker-compose
 
 __Pour voir la configuration complète, veuillez selectionner la branche Gitea__
 
@@ -6,12 +6,12 @@ __Pour voir la configuration complète, veuillez selectionner la branche Gitea__
 
 ## 📑 SOMMAIRES
 
-- [📌 INTRODUCTION](#-introduction)
+- [📌 DESCRIPTION](#-description)
 - [📫 CONTACT](#-contact)
   
 ---
 
-## 📌 INTRODUCTION
+## 📌 DESCRIPTION
 
 Dans le monde actuel, nous voyons bel et bien comment il est important non seulement d’effectuer une sauvegarde régulière mais aussi d’avoir en place plusieurs versions permettant de revenir facilement vers une version souhaitée en cas de non fonctionnement correct d'une version déployée. Afin d’assurer cela, il existe plusieurs outils, dans le cadre notre projet nous allons utiliser Gitea comme serveur afin de pousser nos différentes configurations.
 
